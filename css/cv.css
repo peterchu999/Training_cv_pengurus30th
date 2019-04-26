@@ -296,7 +296,7 @@ button{
     .pic-collection :nth-child(odd){
         display: none;
     }
-    .my-portofolio > h1{
+    .my-portfolio > h1{
         text-align:center;
     }
 }
