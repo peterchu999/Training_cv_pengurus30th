@@ -296,10 +296,16 @@ button{
     .pic-collection :nth-child(odd){
         display: none;
     }
+    .my-portofolio > h1{
+        text-align:center;
+    }
 }
 @media only screen and (max-width: 500px) {
     .write-like > h3,.code-like > h3{
         width: 80%;
+    }
+    .nav-bar{
+        display:none;
     }
 }
 
