@@ -304,7 +304,7 @@ button{
     .write-like > h3,.code-like > h3{
         width: 80%;
     }
-    .nav-bar{
+    .nav-bar > .nav-right{
         display:none;
     }
 }
